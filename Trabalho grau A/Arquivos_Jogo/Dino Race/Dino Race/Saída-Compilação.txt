@@ -1,0 +1,8 @@
+﻿1>------ Compilação iniciada: Projeto: Dino Race, Configuração: Debug Win32 ------
+1>Dino Race.cpp
+1>c:\users\fernando\source\repos\dino race\dino race\dino race.cpp(155): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+1>c:\users\fernando\source\repos\dino race\dino race\dino race.cpp(156): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+1>c:\users\fernando\source\repos\dino race\dino race\dino race.cpp(185): warning C4018: '<': incompatibilidade de signed/unsigned
+1>Dino Race.vcxproj -> C:\Users\Fernando\source\repos\Dino Race\Debug\Dino Race.exe
+1>Projeto de compilação pronto "Dino Race.vcxproj".
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========

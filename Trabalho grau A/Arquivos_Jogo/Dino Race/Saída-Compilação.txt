@@ -1,0 +1,16 @@
+﻿1>------ Compilação iniciada: Projeto: Dino Race, Configuração: Debug Win32 ------
+1>GameObject.cpp
+1>Sprite.cpp
+1>main.cpp
+1>c:\users\fernando\source\repos\dino race\dino race\main.cpp(334): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+1>c:\users\fernando\source\repos\dino race\dino race\main.cpp(444): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+1>c:\users\fernando\source\repos\dino race\dino race\main.cpp(448): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+1>c:\users\fernando\source\repos\dino race\dino race\main.cpp(221): warning C4101: 'height': variável local não referenciada
+1>c:\users\fernando\source\repos\dino race\dino race\main.cpp(221): warning C4101: 'nrChannels': variável local não referenciada
+1>c:\users\fernando\source\repos\dino race\dino race\main.cpp(221): warning C4101: 'width': variável local não referenciada
+1>c:\users\fernando\source\repos\dino race\dino race\main.cpp(223): warning C4101: 'data': variável local não referenciada
+1>Gerando Código...
+1>LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+1>Dino Race.vcxproj -> C:\Users\Fernando\source\repos\Dino Race\Debug\Dino Race.exe
+1>Projeto de compilação pronto "Dino Race.vcxproj".
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========

@@ -1,0 +1,109 @@
+﻿"Dino Race.exe" (Win32): Carregado "C:\Users\Fernando\source\repos\Dino Race\Debug\Dino Race.exe". Símbolos carregados.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\ntdll.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\kernel32.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\KernelBase.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Program Files\AVAST Software\Avast\x86\aswhook.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\user32.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\win32u.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\gdi32.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\gdi32full.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\msvcp_win.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\ucrtbase.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\shell32.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\cfgmgr32.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\SHCore.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\msvcrt.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\rpcrt4.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\sspicli.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\cryptbase.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\bcryptprimitives.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\sechost.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\combase.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\windows.storage.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\advapi32.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\profapi.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\powrprof.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\umpdc.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\shlwapi.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\kernel.appcore.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\cryptsp.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\opengl32.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Users\Fernando\source\repos\Dino Race\Dino Race\glew32.dll". O módulo foi criado sem símbolos.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\msvcp140d.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\vcruntime140d.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\ucrtbased.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\glu32.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\DXCore.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\imm32.dll". Não é possível localizar ou abrir o arquivo PDB.
+O thread 0x13d0 foi fechado com o código 0 (0x0).
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\uxtheme.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\winmm.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\winmmbase.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\dinput8.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\XInput1_4.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\devobj.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\dwmapi.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\InputHost.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\CoreMessaging.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\CoreUIComponents.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\propsys.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\oleaut32.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\WinTypes.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\ntmarta.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\msctf.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\hid.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\setupapi.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\bcrypt.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\wintrust.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\msasn1.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\crypt32.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\System32\DriverStore\FileRepository\nvdmwu.inf_amd64_26aa6356770b2e86\nvinit.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\version.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\ig75icd32.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\igdusc32.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\wtsapi32.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\version.dll"
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\System32\DriverStore\FileRepository\nvdmwu.inf_amd64_26aa6356770b2e86\nvinit.dll"
+O thread 0x2ee8 foi fechado com o código 0 (0x0).
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\version.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\version.dll"
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\version.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\version.dll"
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\dxgi.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\d3d11.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\ResourcePolicyClient.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\ResourcePolicyClient.dll"
+"Dino Race.exe" (Win32): Carregado "C:\Windows\System32\DriverStore\FileRepository\nvdmwu.inf_amd64_26aa6356770b2e86\nvinit.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\version.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\igd10iumd32.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\ncrypt.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\ntasn1.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\version.dll"
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\System32\DriverStore\FileRepository\nvdmwu.inf_amd64_26aa6356770b2e86\nvinit.dll"
+O thread 0x23d4 foi fechado com o código 0 (0x0).
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\TextInputFramework.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\iertutil.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\ole32.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Carregado "C:\Windows\SysWOW64\clbcatq.dll". Não é possível localizar ou abrir o arquivo PDB.
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\ntasn1.dll"
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\ncrypt.dll"
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\igd10iumd32.dll"
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\XInput1_4.dll"
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\devobj.dll"
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\msasn1.dll"
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\crypt32.dll"
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\wintrust.dll"
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\setupapi.dll"
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\hid.dll"
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\dinput8.dll"
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\winmmbase.dll"
+"Dino Race.exe" (Win32): Não carregado "C:\Windows\SysWOW64\winmm.dll"
+O thread 0x28ec foi fechado com o código 0 (0x0).
+O thread 0x3538 foi fechado com o código 0 (0x0).
+O thread 0x12c4 foi fechado com o código 0 (0x0).
+O thread 0x2f04 foi fechado com o código 0 (0x0).
+O thread 0xbcc foi fechado com o código 0 (0x0).
+O thread 0x25fc foi fechado com o código 0 (0x0).
+O thread 0x304c foi fechado com o código 0 (0x0).
+O thread 0x980 foi fechado com o código 0 (0x0).
+O programa "[10332] Dino Race.exe" foi fechado com o código 0 (0x0).
