@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\fernando\source\repos\damas\damas\main.cpp(812): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+c:\users\fernando\source\repos\damas\damas\main.cpp(813): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+c:\users\fernando\source\repos\damas\damas\main.cpp(1005): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+c:\users\fernando\source\repos\damas\damas\main.cpp(1006): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  Damas.vcxproj -> C:\Users\Fernando\source\repos\Damas\Debug\Damas.exe
